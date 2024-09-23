@@ -1,4 +1,4 @@
-```markdown
+
 # Synthetic Data Generation for Two Tables with Foreign Key Relationship
 
 This code demonstrates how to generate synthetic data for two tables with a foreign key relationship using BigFrames and Gemini. 
@@ -62,4 +62,3 @@ The generated `orders` DataFrame might look like this:
 ## Disclaimer
 
 This code is intended for demonstration purposes only. The generated synthetic data may not be representative of real-world data.
-```
